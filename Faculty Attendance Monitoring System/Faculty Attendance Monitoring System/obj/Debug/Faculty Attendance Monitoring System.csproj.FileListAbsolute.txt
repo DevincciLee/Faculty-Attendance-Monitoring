@@ -1,0 +1,46 @@
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.exe.config
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.exe
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.pdb
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Properties.Resources.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.GenerateResource.cache
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.CoreCompileInputs.cache
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.exe
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.pdb
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Login.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Employee.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.EmployeeList.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Records.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Registration.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\System.Data.OleDb.dll
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\System.Data.OleDb.xml
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.CopyComplete
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.FrmAttendance.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Position.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.AssemblyReference.cache
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Check_Attendance.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Schedules.resources
+C:\Users\Jermaine\Downloads\OneDrive\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.DailyTimeRecord.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.exe.config
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.exe
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\Faculty Attendance Monitoring System.pdb
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\System.Data.OleDb.dll
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\bin\Debug\System.Data.OleDb.xml
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Check_Attendance.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.DailyTimeRecord.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Dashboard.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Employee.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.EmployeeList.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.FrmAttendance.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Login.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Position.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Properties.Resources.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Records.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Registration.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty_Attendance_Monitoring_System.Schedules.resources
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.GenerateResource.cache
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty .58B44C2B.Up2Date
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.exe
+C:\Users\User\Documents\Faculty Attendance Monitoring System\Faculty Attendance Monitoring System\obj\Debug\Faculty Attendance Monitoring System.pdb
